@@ -1,0 +1,1 @@
+My program does everything it's supposed to do but sometimes an exception happens when you exit. It opens up a weird file called exe_common.inl and shows the exception coming from the _cexit() function. I tried fixing it but couldn't figure it out so I decided to just hand it in anyways. 

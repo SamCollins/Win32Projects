@@ -1,0 +1,5 @@
+﻿  ConnectWnd.cpp
+  main.cpp
+  SeperateWnd.cpp
+ConnectWnd.obj : error LNK2001: unresolved external symbol __imp__PlaySoundA@12
+C:\School\Comp3770\Assignments\A1\Release\A1.exe : fatal error LNK1120: 1 unresolved externals

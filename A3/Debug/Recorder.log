@@ -1,0 +1,4 @@
+﻿  Recorder.c
+c:\school\comp3770\assignments\a3\collins_sam_a3\recorder\recorder.c(145): warning C4047: '=': 'wavehdr_tag *' differs in levels of indirection from 'DWORD'
+  Recorder.vcxproj -> C:\School\Comp3770\Assignments\A3\Collins_Sam_A3\Debug\Recorder.dll
+  Recorder.vcxproj -> C:\School\Comp3770\Assignments\A3\Collins_Sam_A3\Debug\Recorder.pdb (Partial PDB)

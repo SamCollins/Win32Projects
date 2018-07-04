@@ -1,0 +1,5 @@
+﻿  brighten.cpp
+c:\school\term 3\comp3770\assignments\a5\a5\a5\brighten.cpp(107): warning C4838: conversion from 'INT' to 'byte' requires a narrowing conversion
+c:\school\term 3\comp3770\assignments\a5\a5\a5\brighten.cpp(339): warning C4101: 'bitmap': unreferenced local variable
+  A5.vcxproj -> C:\School\Term 3\Comp3770\Assignments\A5\A5\Debug\A5.exe
+  A5.vcxproj -> C:\School\Term 3\Comp3770\Assignments\A5\A5\Debug\A5.pdb (Partial PDB)
